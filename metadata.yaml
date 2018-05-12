@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '31484'
     url: http://www.gutenberg.org/2009/agents/31484
 description: Called to the colors.--Under the flag.--America first.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36726#America-First
 gutenberg_issued: '2011-07-14'
 gutenberg_type: Text
 identifiers:
